@@ -1,0 +1,133 @@
+{
+    {
+        "id":"GFK",
+        "name":"Griffin Kingdom",
+        "religion":"",
+        "government": "Kingdom",
+        "cities":["Morgan", "Goldenport", "Delprovscire"," Falthiem", "Hearthold", "Holtimberg", "Rostock","Vilcray"]
+    },
+    {
+        "id":"MCK",
+        "name": "The Manticore Kingdom",
+        "ruler":{
+            "name":"Goran Manticore",
+            "liege":"",
+            "vassal":["McAlba"],
+            "ranking":"King",
+            "title":["King", "King Manticore"]
+        },
+        "religion":"",
+        "government": "Kingdom",
+        "region":[],
+        "cities": [
+            {
+                "name":"Alba",
+                "ruler":{
+                    "name":"Edjim",
+                    "race":"human",
+                    "sex":"male",
+                    "liege":"McAlba",
+                    "vassal":[],
+                    "ranking":"Mayor",
+                    "title":[]
+                },
+                "religion":"",
+                "government":{
+                    "classification":"city",
+                    
+                },
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["Low Grade Lumber"]
+            },
+            {
+                "name":"Durham",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":"county",
+                "specialty":[],
+                "natural_resources":[]
+            },
+            {
+                "name":"Granburg",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":{
+                    "classification":"city",
+
+                },
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["Low Grade Lumber"]
+            },
+            {
+                "name":"Irgon",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":"city",
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["Low Grade Lumber"]
+            },
+            {
+                "name":"Lanark",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":"city",
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["High grade Fishing"]
+            },
+            {
+                "name":"Mountport",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":"city",
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["Low Grade Lumber"]
+            },
+            {
+                "name":"Murakin",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":"city",
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["Low Grade Lumber"]
+            },
+            {
+                "name":"Pierce",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":"city",
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["Low Grade Lumber"]
+            },
+            {
+                "name":"Prierrieville",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":"city",
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["Low Grade Lumber"]
+            },
+            {
+                "name":"Redwood",
+                "ruler":"McAlba",
+                "religion":"",
+                "government":"city",
+                "specialty":["Black Smith", "General Goods", "Magical Store"],
+                "natural_resources":["Redwood Lumber"]
+            },
+        ]
+    },
+    {
+        "id":"SUN",
+        "name": "Sun Kingdom",
+        "ruler": {
+            "name":"Haazim al-Radwan",
+            "liege":"",
+            "vassal":[],
+            "rank":"King",
+            "title": ["Sun King", "Sultan", "Sun Child"]
+        },
+        "religion":"Lathander",
+        "government": "Kingdom",
+        "cities": ["Sol", "Canyon District"]
+    },
+}
