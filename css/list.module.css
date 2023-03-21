@@ -1,0 +1,16 @@
+.list_container {
+  list-style: none;
+  padding: 0px;
+}
+.diplo_li:before {
+  /* list-style-image: none; */
+
+  content: '\1F4DC';
+  margin: 0 1em;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
