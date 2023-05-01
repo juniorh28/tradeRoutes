@@ -1,0 +1,35 @@
+{
+    "cultures":[
+        {
+            "id":"ScandiCulture",
+            "name":"Scandi",
+            "pdfLink":"https://docs.google.com/document/d/1sQn6-iGsP3SmPtXUsPuvWAyAVwoOQ5Sz1rriKvUdBAs/edit?usp=sharing"
+        },
+        {
+            "id":"DovermenCulture",
+            "name":"Dovermen",
+            "pdfLink":"https://docs.google.com/document/d/1dKWmBOBuFd2YSjFfB1VBUdUL2HiQDHfUK-7pHJoOeB8/edit?usp=sharing"
+        },
+        {
+            "id":"MiresCulture",
+            "name":"Mire",
+            "pdfLink":"https://docs.google.com/document/d/1cMMb-sWjDBUElqaOjRn1k5HI0BxXVO9uZjAaYrGXn4Q/edit?usp=sharing"
+        },
+        {
+            "id":"InaleutCulture",
+            "name":"Inaleut",
+            "pdfLink":"https://docs.google.com/document/d/1mOPw3FcnJzjtgSySicVdozzkDDN1DSb5sfjDrBEBfBM/edit?usp=sharing"
+        },
+        {
+            "id":"SaharauiCulture",
+            "name":"Saharaui",
+            "pdfLink": "https://docs.google.com/document/d/1tc-KBp_vQYot8lrAuZIAVK13tgwWd8-e1a4TQcjXi0w/edit?usp=sharing"
+        },
+        {
+            "id":"GoblinArmyCulture",
+            "name":"The Great Goblin Army",
+            "pdfLink": "https://docs.google.com/document/d/1Pnhoan5TguH0AhUYpqJjnS4NpELuv1conbp8YUlr7zk/edit?usp=sharing"
+        }
+
+    ]
+}

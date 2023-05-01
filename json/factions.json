@@ -1,0 +1,24 @@
+{
+  "factions": [
+    {
+      "id": "DawnBringerId",
+      "name": "The Dawnbringers",
+      "pdfLink": "https://docs.google.com/document/d/1Xa84kp6LlLOFlnneUpz0R85XuuMzsUzAh9-5sN_n6Bg/edit?usp=sharing"
+    },
+    {
+      "id": "PhoneixOrderId",
+      "name": "The Order of the Phoneix",
+      "pdfLink": "https://docs.google.com/document/d/1XbqDRsMKJktfWCFXIEy0z-tXm1YjdBpnZqRKLngerko/edit?usp=sharing"
+    },
+    {
+      "id": "ShepardOrderId",
+      "name": "The Order of the Shepard",
+      "pdfLink": "https://docs.google.com/document/d/1KA47lVgnHg2lwk_uwr0buq9CxMMNUPc8uz5ltx7ibeE/edit?usp=sharing"
+    },
+    {
+      "id": "DruidCouncilId",
+      "name": "Druid Council",
+      "pdfLink": "https://docs.google.com/document/d/1g3hj_9-A4jGFnl0vvaY58LoybwvpFf6ei6LSZac_dHo/edit?usp=sharing"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "emoji": [
+    {
+      "name": "crossed swords",
+      "icon": "⚔",
+      "meaning": "Fighter",
+      "hit_die": 10
+    },
+    {
+      "name": "wand",
+      "icon": "🪄",
+      "meaning": "Wizard",
+      "hit_die": 6
+    },
+    {
+      "name": "skull",
+      "icon": "💀",
+      "meaning": "Warlock",
+      "hit_die": 8
+    },
+    {
+      "name": "masks",
+      "icon": "🎭",
+      "meaning": "Rouge",
+      "hit_die": 8
+    },
+    {
+      "name": "shield",
+      "icon": "🛡",
+      "meaning": "Paladin",
+      "hit_die": 10
+    },
+    {
+      "name": "leaves",
+      "icon": "🍃",
+      "meaning": "druid",
+      "hit_die": 8
+    },
+    {
+      "name": "cog",
+      "icon": "⚙",
+      "meaning": "Artificer",
+      "hit_die": 8
+    },
+    {
+      "name": "heart",
+      "icon": "💟",
+      "meaning": "Cleric",
+      "hit_die": 8
+    },
+    {
+      "name": "bow and arrow",
+      "icon": "🏹",
+      "meaning": "Ranger",
+      "hit_die": 10
+    },
+    {
+      "name": "fist",
+      "icon": "👊",
+      "meaning": "Monk",
+      "hit_die": 8
+    },
+    {
+      "name": "blood",
+      "icon": "🩸",
+      "meaning": "Blood Hunter",
+      "hit_die": 10
+    },
+    {
+      "name": "fire",
+      "icon": "🔥",
+      "meaning": "Sorcerer",
+      "hit_die": 6,
+      "primsary_ability": "CHA"
+    },
+    {
+      "name": "axe",
+      "icon": "🪓",
+      "meaning": "Barbarian",
+      "hit_die": 12
+    },
+    {
+      "name": "music notes",
+      "icon": "🎶",
+      "meaning": "Bard",
+      "hit_die": 8,
+      "primsary_ability": "CHA"
+    }
+  ]
+}
