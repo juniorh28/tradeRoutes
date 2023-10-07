@@ -45,6 +45,15 @@ const Lore = () => {
             </li>
           )
         })}
+        {/* <li>
+            <Link
+                href={{
+                  pathname: `factions/colosseum/`,
+                }}
+              >
+                colosseum
+            </Link>
+        </li> */}
       </ul>
 
       <ul>Royal Hosues</ul>
